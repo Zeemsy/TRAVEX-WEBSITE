@@ -1,0 +1,6 @@
+{
+  "name": "TRAVEX - Travel & Tour Booking Agency",
+  "description": "Modern, vibrant travel and tour booking platform with package discovery, interactive world destination map, instant booking checkout, and live concierge chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
